@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @carlosdesa
-- 👀 I’m interested in React, VUE, Angular, GIT, Docker, NodeJS BackEnd
-- 🌱 I’m currently learning React, VUE, Angular, GIT, Docker, NodeJS BackEnd
-- 💞️ I’m looking to collaborate on React, VUE, Angular, GIT, Docker, NodeJS BackEnd
+
 - 📫 How to reach me: send me an e-mail: mumia555@gmail.com
